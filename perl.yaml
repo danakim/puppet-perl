@@ -1,0 +1,5 @@
+:parser: YAML
+:precedence:
+  - common
+:yaml:
+  :datadir: %{puppet_root}/data/perl
